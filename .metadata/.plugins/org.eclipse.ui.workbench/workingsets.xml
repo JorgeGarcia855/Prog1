@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workingSetManager>
+<workingSet editPageId="org.eclipse.jdt.internal.ui.DynamicSourcesWorkingSet" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1614570202683_0" label="Java Main Sources" name="Java Main Sources"/>
+<workingSet editPageId="org.eclipse.jdt.internal.ui.DynamicSourcesWorkingSet" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1614570202733_1" label="Java Test Sources" name="Java Test Sources"/>
+<workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1616164440344_4" label="P1_Corte1" name="P1_Corte1">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/JorgeGarcia_Historia" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/JorgeGarcia_Abstractas" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/JorgeGarcia_TallerHerencia_V1" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/JorgeGarcia_TallerRepaso" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/JorgeGarcia_Persistencia" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/PlantillaMVC" type="4"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1616164485911_6" label="P1_Corte2" name="P1_Corte2">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/JorgeGarcia_Composer" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/JorgeGarcia_BotonJFreeChart" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/JorgeGarcia_Archivos" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/PlantillaGUIMVC" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/JorgeGarcia_Voladores" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/CricketsProyectoSimon" type="4"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1620055218342_7" label="P1_Corte3" name="P1_Corte3">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/JorgeGarciaDAODTO" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/JorgeGarcia_DAODTO" type="4"/>
+<item elementID="=MailTest" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/OrdernarPersonasDTO" type="4"/>
+<item elementID="=TinderFinal" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/JorgeGarcia_Nomina" type="4"/>
+</workingSet>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1614570204263_2" label="Window Working Set" name="Aggregate for window 1614570204263"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1614611102931_3" label="Window Working Set" name="Aggregate for window 1614611102931"/>
+<mruList name="P1_Corte2"/>
+</workingSetManager>

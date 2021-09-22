@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy 3 packages to &apos;JorgeGarcia_Voladores/src&apos;&#x0D;&#x0A;- Original project: &apos;PlantillaMVC&apos;&#x0D;&#x0A;- Destination element: &apos;JorgeGarcia_Voladores/src&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     PlantillaMVC/src/co.edu.unbosque.controller&#x0D;&#x0A;     PlantillaMVC/src/co.edu.unbosque.model&#x0D;&#x0A;     PlantillaMVC/src/co.edu.unbosque.view" description="Copy packages" destination="=JorgeGarcia_Voladores/src" element1="/src&lt;co.edu.unbosque.controller" element2="/src&lt;co.edu.unbosque.model" element3="/src&lt;co.edu.unbosque.view" flags="589830" fragments="3" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyPackages" stamp="1617810033223" version="1.0"/>
+</session>

@@ -1,0 +1,22 @@
+package co.edu.unbosque.model;
+
+
+public class Operaciones {
+	
+	public Operaciones() {
+	}
+	
+	public String numAleatorios(int tamNumero) {
+		String resul = "";
+		for (int i =1;i<=tamNumero;i++) {
+			
+			int random=(int)(Math.floor(Math.random()*(3+1))+1);
+			resul += String.valueOf(random);
+		}
+	 
+		return resul;
+	}
+	
+	
+}
+

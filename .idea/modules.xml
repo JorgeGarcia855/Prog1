@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/FP_Arreglos10Nov/FP_Arreglos10Nov.iml" filepath="$PROJECT_DIR$/FP_Arreglos10Nov/FP_Arreglos10Nov.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JorgeGarcia_Nomina/JorgeGarciaDAODTO.iml" filepath="$PROJECT_DIR$/JorgeGarcia_Nomina/JorgeGarciaDAODTO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JorgeGarcia_Abstractas/JorgeGarcia_Abstractas.iml" filepath="$PROJECT_DIR$/JorgeGarcia_Abstractas/JorgeGarcia_Abstractas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JorgeGarcia_Archivos/JorgeGarcia_Archivos.iml" filepath="$PROJECT_DIR$/JorgeGarcia_Archivos/JorgeGarcia_Archivos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JorgeGarcia_BotonJFreeChart/JorgeGarcia_BotonJFreeChart.iml" filepath="$PROJECT_DIR$/JorgeGarcia_BotonJFreeChart/JorgeGarcia_BotonJFreeChart.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JorgeGarcia_Composer/JorgeGarcia_Composer.iml" filepath="$PROJECT_DIR$/JorgeGarcia_Composer/JorgeGarcia_Composer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JorgeGarcia_DAODTO/JorgeGarcia_DAODTO.iml" filepath="$PROJECT_DIR$/JorgeGarcia_DAODTO/JorgeGarcia_DAODTO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JorgeGarcia_Historia/JorgeGarcia_Historia.iml" filepath="$PROJECT_DIR$/JorgeGarcia_Historia/JorgeGarcia_Historia.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JorgeGarcia_Persistencia/JorgeGarcia_Persistencia.iml" filepath="$PROJECT_DIR$/JorgeGarcia_Persistencia/JorgeGarcia_Persistencia.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JorgeGarcia_Voladores/JorgeGarcia_Voladores.iml" filepath="$PROJECT_DIR$/JorgeGarcia_Voladores/JorgeGarcia_Voladores.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MailTest/MailTest.iml" filepath="$PROJECT_DIR$/MailTest/MailTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OrdernarPersonasDTO/OrdernarPersonasDTO.iml" filepath="$PROJECT_DIR$/OrdernarPersonasDTO/OrdernarPersonasDTO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PlantillaGUIMVC/PlantillaGUIMVC.iml" filepath="$PROJECT_DIR$/PlantillaGUIMVC/PlantillaGUIMVC.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PlantillaMVC/PlantillaMVC.iml" filepath="$PROJECT_DIR$/PlantillaMVC/PlantillaMVC.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PruebaNumeros/PruebaNumero.iml" filepath="$PROJECT_DIR$/PruebaNumeros/PruebaNumero.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TinderFinal/PruebaNumeros.iml" filepath="$PROJECT_DIR$/TinderFinal/PruebaNumeros.iml" />
+    </modules>
+  </component>
+</project>

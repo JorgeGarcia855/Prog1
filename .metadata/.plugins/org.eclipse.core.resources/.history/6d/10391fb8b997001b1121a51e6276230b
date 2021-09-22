@@ -1,0 +1,11 @@
+package co.edu.unbosque.model;
+
+public abstract class Animal {
+	
+	public Animal(String comer) {
+		super();
+	}
+	
+	public abstract String eat();
+
+}

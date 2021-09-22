@@ -1,0 +1,9 @@
+1619578151104	Delete element
+1619578375922	Rename field 'CONVERTIR'
+1619578534573	Rename type 'View'
+1619578592663	Rename type 'PanelEntrada'
+1619578624891	Rename field 'butConvertir'
+1619578638778	Delete element
+1619578744530	Rename method 'getButConvertir'
+1619578769103	Rename method 'setButConvertir'
+1619578815917	Rename type 'ClaseX'
